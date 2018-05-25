@@ -22,3 +22,32 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# This is an H1 #
+
+## This is an H2 ##
+
+### This is an H3 ######
+
+*   Red
+*   Green
+*   Blue
+
+
+1.  Bird
+2.  McHale
+3.  Parish
+
+> ## This is a header.
+> 
+> 1.   This is the first list item.
+> 2.   This is the second list item.
+> 
+> Here's some example code:
+> 
+>     return shell_exec("echo $input | $markdown_script");
+
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
